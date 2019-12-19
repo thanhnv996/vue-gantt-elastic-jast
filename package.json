@@ -1,31 +1,29 @@
 {
   "_args": [
     [
-      "gantt-elastic@1.0.10",
+      "git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git",
       "F:\\hr-prj\\hrt-sc-dev"
     ]
   ],
-  "_from": "gantt-elastic@1.0.10",
-  "_id": "gantt-elastic@1.0.10",
+  "_from": "git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git",
+  "_id": "gantt-elastic@git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git#bb811aa7653f10f1a321dcbe17a62b4f2206c666",
   "_inBundle": false,
-  "_integrity": "sha512-N0S+AfbXqb+562uirzUFykrPi2hocy2pwZyPA/PLoZ8J+rl+d+W44B+derajlciYDuU4JxMeZnDWYti9mkWM8A==",
+  "_integrity": "",
   "_location": "/gantt-elastic",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "gantt-elastic@1.0.10",
-    "name": "gantt-elastic",
-    "escapedName": "gantt-elastic",
-    "rawSpec": "1.0.10",
-    "saveSpec": null,
-    "fetchSpec": "1.0.10"
+    "type": "git",
+    "raw": "git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git",
+    "rawSpec": "git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git",
+    "saveSpec": "git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git",
+    "fetchSpec": "https://github.com/thanhnv996/vue-gantt-elastic-jast.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/gantt-elastic/-/gantt-elastic-1.0.10.tgz",
-  "_spec": "1.0.10",
+  "_resolved": "git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git#bb811aa7653f10f1a321dcbe17a62b4f2206c666",
+  "_spec": "git+https://github.com/thanhnv996/vue-gantt-elastic-jast.git",
   "_where": "F:\\hr-prj\\hrt-sc-dev",
   "author": {
     "name": "Rafal Pospiech",
